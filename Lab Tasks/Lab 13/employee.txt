@@ -1,0 +1,3 @@
+Employee Name: FAIQ
+Employee ID: CT-033
+Salary: 58k
